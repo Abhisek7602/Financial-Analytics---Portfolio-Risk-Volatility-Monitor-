@@ -1,6 +1,6 @@
 # 📊 Portfolio Stress Testing & Optimization using Python & Tableau
 
-![](https://github.com/Abhisek7602/Financial-Analytics---Portfolio-Risk-Volatility-Monitor-)
+![](https://github.com/Abhisek7602/Financial-Analytics---Portfolio-Risk-Volatility-Monitor-/blob/main/Screenshot%202026-04-10%20192731.png)
 
 This project was completed as part of the Infotact Data Analytics Internship (Month-2 Project).
 
@@ -112,13 +112,6 @@ Source: NSE / Yahoo Finance (public financial data)
 - Tableau Dashboard (interactive)
 - Project Report PPT
 - GitHub Repository
-
----
-
-## 👤 Author
-
-**Abhisek Nayak**  
-Data Analytics Intern – Infotact
 
 ---
 
